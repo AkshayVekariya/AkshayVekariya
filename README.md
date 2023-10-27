@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <a href="akshayvekariya120@gmail.com" target="_blank">
+  <a href="https://akshayvekariya120@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Akshay&color=FF0000&logoColor=black&labelColor=19BFF0&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/akshay-vekariya-aa6ab2260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
