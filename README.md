@@ -36,10 +36,10 @@
 </div>
 
 <!-- Projects Section -->
-<h2 align="left">Projects</h2>
+<!--<h2 align="left">Projects</h2>
 
 - [Project 1 Name](Link to Project 1): Short description of Project 1.
-- [Project 2 Name](Link to Project 2): Short description of Project 2.
+- [Project 2 Name](Link to Project 2): Short description of Project 2.-->
 
 <!-- GitHub Trophies Section -->
 <h2 align="left">GitHub Trophies</h2>
